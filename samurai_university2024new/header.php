@@ -23,6 +23,7 @@
             <div class="logo_container">
               <div class="logo_text">
               <a href="<?php echo esc_url(home_url('/')); ?>" rel="home">
+               <!--  <a href="<?php echo get_template_directory_uri(); ?>/index.html"> -->
                   <img src="<?php echo get_template_directory_uri(); ?>/images/logo_big.png" />
                   <span>Samurai University</span>
                 </a>
